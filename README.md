@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **JBeni/JBeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there! I'm [Beniamin] 👋
+### Hey there! I'm [Beniamin] 👋
 
 <p align="center">
     <a href="https://linkedin.com/in/beniamin-jitca"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
