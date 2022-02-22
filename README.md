@@ -20,7 +20,13 @@ Here are some ideas to get you started:
     <a href="https://linkedin.com/in/beniamin-jitca"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
-I am a software developer creating his path in software development with a strong passion for engineering. I am a sociable, friendly and hard-working person eager to learn new things. I am a highly motivated professional with hands-on experience developing software solutions through coordination with a team. I can learn, adapt to the project requirements' needs, and I am ready to learn new things to find the best solution. Tight communication will help find the solution when things go out of hand asking for help. I am able to convey complex technologies to various skill levels keeping talent for quickly learning new information, procedures, and technologies. I am open to any feedback.
+I am a software software engineer creating his path in software development with a strong passion for engineering. I am a sociable, friendly and hard-working person eager to learn new things. I am a highly motivated professional with hands-on experience developing software solutions through coordination with a team. I can learn, adapt to the project requirements' needs, and I am ready to learn new things to find the best solution. Tight communication will help find the solution when things go out of hand asking for help. I am able to convey complex technologies to various skill levels keeping talent for quickly learning new information, procedures, and technologies. I am open to any feedback.
+
+<p align="center">
+    <div>
+        Tech Stack: .Net 6, C#, Azure, JS, HTML5, CSS3, Angular, React, Blazor, Solidity, Web3, Blockchain, Sql Server
+    </div>
+</p>
 
 ## GitHub Stats
 
